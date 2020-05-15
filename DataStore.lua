@@ -1,5 +1,3 @@
-
-
 local DataStoreService = game:GetService("DataStoreService")
 
 local myDataStore = DataStoreService:GetDataStore("myDataStore")
